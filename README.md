@@ -1,8 +1,5 @@
-## My Web Application (Title)
-
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Contents](#content)
+## True Leaf - Mobile Web App
+Available at https://bby-04.web.app/
 
 ## General Info
 Our team, bby4, wants to provide a website with simplified information, and to make a community think about plant ownership more welcoming and easy
